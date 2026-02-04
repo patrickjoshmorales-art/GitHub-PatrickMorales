@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Mordecai",
+        "daily_allowance": 120,
+        "snacks_expense": 30,
+        "savings": 45,
+        "total_expense": 60,
+        "percent_saving": 37.5
+    },
+    {
+        "name": "Rigby",
+        "daily_allowance": 100,
+        "snacks_expense": 40,
+        "transport_expense": 35,
+        "savings": 25,
+        "total_expense": 80,
+        "percent_saving": 25.0
+    },
+    {
+        "name": "Margaret",
+        "daily_allowance": 150,
+        "snacks_expense": 60,
+        "transport_expense": 40,
+        "savings": 50,
+        "total_expense": 120,
+        "percent_saving": 33.33333333333333
+    },
+    {
+        "name": "Eileen",
+        "daily_allowance": 130,
+        "snacks_expense": 50,
+        "transport_expense": 30,
+        "savings": 50,
+        "total_expense": 100,
+        "percent_saving": 38.46153846153847
+    },
+    {
+        "name": "Benson",
+        "daily_allowance": 90,
+        "snacks_expense": 35,
+        "transport_expense": 25,
+        "savings": 30,
+        "total_expense": 70,
+        "percent_saving": 33.33333333333333
+    }
+]
