@@ -10,7 +10,7 @@ print("")
 
 # -----------------------------------------------------------------------
 
-# Mainn Menu
+# Main Menu
 while True:
     print("\n===== MENU =====")
     print("1 - Check a password")
@@ -79,7 +79,7 @@ while True:
 
 # -----------------------------------------------------------------------
 
-    # Choicw 2: Genarate Password
+    # Choice 2: Generate Password
     elif choice == "2":
         characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()"
         gen_password = ""
