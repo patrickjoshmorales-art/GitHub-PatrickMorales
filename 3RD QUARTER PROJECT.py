@@ -9,13 +9,16 @@ password_details = {}
 # -----------------------------------------------------------------------
 
 try:
+    # READING from the file
     filename = "passwords.json"
     with open(filename, 'r') as file:
+        # Load the JSON data from the file
         data = json.load(file)
 
         saved_passwords = data["passwords"]
         password_details = data["details"]
 
+# Used if there are JSON File errors:
 except FileNotFoundError:
     print("No existing file found. Please Check :D.")
 
