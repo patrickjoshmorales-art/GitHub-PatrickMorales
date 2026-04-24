@@ -1,6 +1,7 @@
 import json
 import random
 import time
+
 # Create dictionary and list
 saved_passwords = []
 password_details = {}
